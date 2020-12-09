@@ -17,5 +17,5 @@ Creating a web-application in order to support and empower the acid attack survi
 5. Familiarising various acid attack survivors to empower them as one whole and help them start their own ventures independently to make them socially and financially resilient.
 
 Unique Selling Point (USP):
-In our web-application, we are providing legal advices, vocational training,medical support,Donation feature,Counselling Sessions, Help button or helpline no., Free educational platform ,contact for campaigns feature ,promoting business ,Developing Skills,Hiring feature.
+In  web-application, there are  legal advices, vocational training,medical support,Donation feature,Counselling Sessions, Help button or helpline no., Free educational platform ,contact for campaigns feature ,promoting business ,Developing Skills,Hiring feature.
 This kind of assistance to the acid attack survivors is not common and it gives a lot of courage and support to the survivors so they can rebuild their life after the trauma of acid attack.
